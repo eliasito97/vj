@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "id": 1,
+      "NombreArea": "sistemas",
+      "NombreEncargado": "juanito",
+      "NroFuncionario": "18"
+    },
+    {
+      "id": 2,
+      "NombreArea": "legal",
+      "NombreEncargado": "federica",
+      "NroFuncionario": "12"
+    },
+    {
+      "id": 3,
+      "NombreArea": "finanzas",
+      "NombreEncargado": "alvaro campos",
+      "NroFuncionario": "19"
+    }
+  ],
+  "activos": [
+    {
+      "id": 1,
+      "TipoActivo": "Computadora",
+      "Marca": "HP",
+      "Modelo": "Pavilion 360",
+      "Estado": "INSERVIBLE",
+      "AreaId": 1
+    },
+    {
+      "id": 2,
+      "TipoActivo": "impresora",
+      "Marca": "epson",
+      "Modelo": "l210",
+      "Estado": "USADO",
+      "AreaId": 2
+    }
+  ]
+}
